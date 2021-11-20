@@ -1,4 +1,4 @@
-function checkNetwork(obj) {
+function checkNetwork() {
     window.addEventListener("offline", (e) =>
     Swal.fire({
     position: 'center',
